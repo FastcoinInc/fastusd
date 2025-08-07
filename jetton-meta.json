@@ -3,5 +3,5 @@
   "symbol": "FUSD",
   "description": "The USD-Pegged stablecoin in TON",
   "decimals": 9,
-  "image": "https://yourdomain.com/logo.png"
+  "image": "https://fastcoininc.github.io/fastusd/fastlogo.png"
 }
